@@ -1,0 +1,21 @@
+# Site settings
+title: jsOnTheMove
+header-img: img/home-bg.png
+email: jsmitten21@gmail.com
+copyright_name: jessfoless
+description: > # this means to ignore newlines until "baseurl:"
+  What do you put in a subtitle?
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: jessfoless
+github_username:  jessfoless
+learn_profile: jessfoless
+email_username: jsmitten21@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
