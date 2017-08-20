@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Enjoying the Journey"."
-date:   2017-08-20 04:38:49 +0000
+title:  "Enjoying the Journey"
+date:   2017-08-20 00:38:49 -0400
 ---
 
 
